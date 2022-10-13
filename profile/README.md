@@ -1,6 +1,6 @@
-**Building the evidence base for evidence-based policymaking.** 
+**Building the evidence base for evidence-based decision-making.** 
 
-We're giving policymakers, researchers and civil society tools for better policy design and accountability.
+We're giving policymakers, researchers and civil society tools for better climate policy design and accountability.
 
 * 🔎 [Launch our search tool](https://app.climatepolicyradar.org/)
 * 💻 [Visit our website](https://climatepolicyradar.org)
